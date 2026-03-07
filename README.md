@@ -19,8 +19,6 @@ Landing page completa para **BIKCRAFT**, loja fictícia especializada em bicicle
 | **Layout Responsivo** | Viewport meta, media queries (@media screen) | Mobile: menu compacto; Desktop: horizontal "Bicicletas | Seguros | Contato" |
 | **Git/GitHub** | Versionamento com commits semânticos + GitHub Pages ativo | Histórico completo + deploy live |
 
-## **Como Executar / Acessar**
-
 ### **Live Demo (GitHub Pages)**
 ```
 Acesse diretamente: https://miguelocoelho.github.io/project-bikcraft-origamid/
@@ -31,7 +29,7 @@ Acesse diretamente: https://miguelocoelho.github.io/project-bikcraft-origamid/
 ```
 
 ### **Localmente**
-1. Clone: `git clone https://github.com/MiguelCoelho/bikcraft.git`
+1. Clone: `git clone https://github.com/MiguelOCoelho/project-bikcraft-origamid.git`
 2. Abra `index.html` no navegador ou VS Code Live Server
 3. Navegue: `index.html`, `sobre.html`, `produtos.html`, `contato.html`
 
@@ -91,6 +89,6 @@ bikcraft/
 ## 👨‍💻 **Autor**
 **Miguel Coelho**  
 *Desenvolvedor Front-End Júnior | Vila Velha, ES*  
-[LinkedIn](https://linkedin.com/in/miguelcoelho) | [GitHub](https://github.com/MiguelCoelho) | coelhomiguel485@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/miguel-ornelas-coelho/) | [GitHub](https://github.com/MiguelOCoelho) | coelhomiguel485@gmail.com 
 
 **Projeto via curso Origamid – HTML/CSS/JavaScript Completo** | 🚀 [Live Demo](https://miguelocoelho.github.io/project-bikcraft-origamid/)
