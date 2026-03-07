@@ -86,9 +86,9 @@ bikcraft/
 
 ```
 
-## 👨‍💻 **Autor**
+## **Autor**
 **Miguel Coelho**  
 *Desenvolvedor Front-End Júnior | Vila Velha, ES*  
 [LinkedIn](https://www.linkedin.com/in/miguel-ornelas-coelho/) | [GitHub](https://github.com/MiguelOCoelho) | coelhomiguel485@gmail.com 
 
-**Projeto via curso Origamid – HTML/CSS/JavaScript Completo** | 🚀 [Live Demo](https://miguelocoelho.github.io/project-bikcraft-origamid/)
+**Projeto via curso Origamid – HTML/CSS/JavaScript Completo** | [Live Demo](https://miguelocoelho.github.io/project-bikcraft-origamid/)
